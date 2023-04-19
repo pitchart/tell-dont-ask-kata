@@ -6,6 +6,10 @@ target
 node_modules/
 
 vendor/
+.phpunit*.cache
+composer.lock
+composer.phar
+*.bak
 
 #scala
 target/
